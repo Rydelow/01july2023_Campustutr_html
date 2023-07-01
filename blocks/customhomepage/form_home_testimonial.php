@@ -1,0 +1,39 @@
+<?php 
+require_once("$CFG->libdir/formslib.php");
+ 
+class home_slider extends moodleform {
+    //Add elements to form
+    public function definition() {
+       global $CFG, $DB, $PAGE, $USER; 	
+ 
+ 
+ 	$attributes=array('class' => 'option-select', 'title'=>'');
+ 	
+ 	$valid=array('class'=>'custom-valid');
+ 
+        $mform = $this->_form; // Don't forget the underscore! 
+ 
+     
+       $mform->addElement('hidden', 'id');
+$mform->addElement('text','name',' Testimonial Content');
+$mform->addElement('text','address','Name & Address');
+
+
+       // $mform->addElement('hidden', 'user_id');  
+      $mform->addElement('editor','testimonial_content','Content');
+
+
+
+
+
+
+$mform->setType('fieldname', PARAM_RAW);  
+
+        $buttonarray[] = &$mform->createElement('submit', 'submitbutton', 'Submit'); 
+       $buttonarray[] = &$mform->createElement('cancel');
+        $mform->addGroup($buttonarray, 'buttonar', '', array(' '), false);
+        $mform->closeHeaderBefore('buttonar');
+    }
+ 
+    
+}

@@ -1,0 +1,40 @@
+[13-Mar-2021 06:16:17 Asia/Kolkata] Default exception handler: Can't find data record in database table event. Debug: SELECT * FROM {event} WHERE id = ?
+[array (
+  0 => 256,
+)]
+Error code: invalidrecord
+* line 1562 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1538 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 925 of /calendar/lib.php: call to moodle_database->get_record()
+* line 69 of /local/coursetocal/export.php: call to calendar_event::load()
+
+[14-Mar-2021 11:31:06 Asia/Kolkata] Default exception handler: Can't find data record in database table event. Debug: SELECT * FROM {event} WHERE id = ?
+[array (
+  0 => 255,
+)]
+Error code: invalidrecord
+* line 1562 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1538 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 925 of /calendar/lib.php: call to moodle_database->get_record()
+* line 69 of /local/coursetocal/export.php: call to calendar_event::load()
+
+[18-Mar-2021 15:37:13 Asia/Kolkata] Default exception handler: Can't find data record in database table event. Debug: SELECT * FROM {event} WHERE id = ?
+[array (
+  0 => 255,
+)]
+Error code: invalidrecord
+* line 1562 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1538 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 925 of /calendar/lib.php: call to moodle_database->get_record()
+* line 69 of /local/coursetocal/export.php: call to calendar_event::load()
+
+[10-Apr-2021 08:00:29 Asia/Kolkata] Default exception handler: Can't find data record in database table event. Debug: SELECT * FROM {event} WHERE id = ?
+[array (
+  0 => 256,
+)]
+Error code: invalidrecord
+* line 1562 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1538 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 925 of /calendar/lib.php: call to moodle_database->get_record()
+* line 69 of /local/coursetocal/export.php: call to calendar_event::load()
+

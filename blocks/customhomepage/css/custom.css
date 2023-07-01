@@ -1,0 +1,61 @@
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-transparent {
+    background-color: transparent;
+}
+	header#page-header {
+    display: none;
+}
+
+header.navbar ,img.lambda-shadow , div#page-navbar {
+    display: none;
+}
+
+/*div#wrapper {
+    display: none;
+}*/
+#wrapper{
+	border-top: unset;
+	    width: 100%;
+}
+
+body#page-blocks-customhomepage-campustutr_for_students {
+    background-image: unset;
+}
+.school_bg-layer{
+	background-image: url("http://www.campustutr.com/blocks/customhomepage/image/CampusTutr_school-banner.png");
+	background-size: cover;
+	height: 675px;
+    background-position: center;
+
+}
+input.btn.btn-info {
+    font-weight: 600;
+    color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #138496;
+    border-color: #138496;
+}
+div#page {
+    padding: 0;
+}
+#page-header-nav {
+    min-height: 0;
+}
+
+section#region-main .row{
+	display: flex;
+}
+
+
+.sub_pmn ul.sbm_box h3.menutext.animated.fadeIn{
+    text-align: justify;
+    color: #0179ca;
+}
+
+@media only screen and (max-width: 768px) {
+    .school_bg-layer{
+        background-position: 80%;
+        height: 480px;
+    }
+}

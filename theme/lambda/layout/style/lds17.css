@@ -1,0 +1,1511 @@
+												input.btn.btn-info{
+    color: #fff;
+    background-color: #138496;
+    border-color: #117a8b;
+}
+body{
+    padding-top: 0!important;
+    background-image: unset!important;
+    font-family: 'Poppins', sans-serif;
+  }
+    #wrapper{
+        border-top: 0!important;
+    }
+  .bg-layer {
+    /*background-image: url("http://www.campustutr.com/theme/lambda/layout/image/herobg1.svg");*//*
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;*/
+    background: transparent linear-gradient(270deg, #0093D8 0%, #0259BA 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+min-height: 475px;
+}
+.clear{
+	clear: both;
+}
+header#page-header {
+    display: none;
+}
+header.navbar{
+  display:none;
+}
+/* header.navbar , div#frontpage-available-course-list {
+    display: none;
+} */
+img.lambda-shadow {
+    display: none;
+}
+.logo img {
+    margin-left: -2em;
+}
+.top_menubx li.nav-item a {
+    color: #fff;
+    padding: 0.1em .5em!important;
+    text-decoration: none!important;
+    line-height: 3;
+}
+
+
+ .sub_pmn>ul.sbm_box>li>a {
+    color: #000!important;
+}
+
+
+ul.menu_box>li>a , .sub_pmn ul.sbm_box ul.sbm_box li a {
+    color: #000!important;
+}
+
+ul.sbm_box {
+    list-style-type: none;
+}
+div#camera_wrap {
+    display: none!important;
+}
+footer#page-footer {
+    display: none;
+}
+
+aside#block-region-side-post {
+    display: none;
+}
+
+.collapse {
+    height: auto;
+}
+.navbar-light ul.navbar-nav .nav-link{
+  color: #fff;
+  text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    padding-left: 2em;
+}
+.buttons button.btn.btn-default {
+    background-color: #fff;
+    margin: 0px 4px;
+    border-radius: 50px;
+    font-weight: 500;
+    padding: 6px 12px;
+    font-size: 14px;
+    text-transform: uppercase;
+    box-shadow: 0px 3px 8px;
+}
+.curve-img{
+   background-image: url("http://www.campustutr.com/theme/lambda/layout/image/herocurved.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      height: 399px;
+    margin-top: -290px;
+    position: relative;
+    }
+
+
+.banner-text {/*
+    padding: 8.5em 0 0 9em;*/
+    position: relative;
+    z-index: 1;
+}
+
+span.yello-text {
+    color: #FEBF00;
+}
+span.online-text {
+    color: #fff;
+    font-size: 25px;
+}
+.avaliable-bgimg{
+    background-image: url("http://www.campustutr.com/theme/lambda/layout/image/avail_course_iconsbg.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.counter-text h1, span {
+    color: #fff;
+}
+
+.counter-img {
+    line-height: 7;
+    text-align: center;
+}
+.counter-text {
+    line-height: 4;
+}
+
+            .custom_box h4 {
+             color: #000;
+             font-size: 26px;
+             margin-bottom: 0;
+             padding-bottom: 17px;
+             margin-top: .5em;
+             font-weight: 900!important;
+           }
+           .btns {
+             padding-top: 14px;
+
+           }
+           .custom_box p.fw {
+             color: #000;
+             font-weight: 700;
+             margin-bottom: 0;
+             width: 53%;
+             margin-right: auto;
+             text-align: left;
+             padding-left: 62px;
+             padding-bottom: 20px;
+           }
+
+
+
+           .custom_bg_color {
+             margin: 0 auto;
+             padding-top: 3em;
+             justify-content: space-around;
+             display: flex;
+             flex-wrap: wrap;
+           }
+           .column.c1 {
+             width: 100%;
+             max-width: 100%;
+             display: flex;
+           }
+           .custom_box {
+
+             display: inline-block;
+             background-color: #fff;
+             width: 365px;
+             position: relative;
+             box-shadow: 0 0 10px rgba(0,0,0,.15);
+             transition: all .3s ease-out 0s;
+             padding-top: 4em;
+             padding-bottom: 2rem;
+             border-radius: 10px;
+           }
+           .custom_box img {
+             display: inline-block;
+             width: 50%;
+             margin: 0 auto;
+           }
+           .footer_content {
+             background-color: #8A23FA;
+             color: #fff;
+             line-height: 2;
+             text-align: center;
+             padding: 4px;
+             border-bottom-left-radius: 10px;
+             border-bottom-right-radius: 10px;
+           }
+           .bg-color {
+             background-color: #6f2978;
+             height: 342px;
+             margin-bottom: 16em;
+             max-height: 400px;
+             border-top-left-radius: 37px;
+             border-top-right-radius: 37px;
+           }
+           .footer_content p {
+             margin: 0;
+           }
+           .bg_custom_color {
+             background-color: #4472c4;
+             border-top-left-radius: 37px;
+             border-top-right-radius: 37px;
+           }
+           .bg_custom_color ul li {
+             list-style: none;
+             color: #000;
+             font-weight: 700;
+             font-size: 18px;
+
+           }
+           .bg_custom_color ul li i {
+             border: 2px solid #ffae00;
+             padding: 5px;
+             margin: 5px;
+             border-radius: 100%;
+             background-color: #fff;
+             color: #ffae00;
+           }
+           .bg_custom_color {
+             background-color: #fcf4cf;
+             border-radius: 37px;
+             padding: 2em;
+             position: relative;
+             z-index: 2
+           }
+           .custom_box img {
+             position: absolute;
+             top: -25px;
+             left: 0;
+             right: 0;
+             z-index: 1;
+             transform: translate(0%, -10%);
+           }
+
+           span.one_1 {
+             background-color: #ffc000;
+             border-radius: 100%;
+             width: 40px;
+             height: 40px;
+             display: inline-block;
+             line-height: 40px;
+             text-align: center;
+             margin-left: 13em;
+             border: 1px solid #999;
+             color: #fff;
+             font-weight: bold;
+           }
+
+
+
+           .campus_tutr {
+             justify-content: space-around;
+             display: flex;
+             flex-wrap: wrap;
+           }
+
+           .campus_tutr_box {
+             padding-left: 15px;
+             padding-right: 15px;
+             background-color: #4472c4;
+             margin: 0 10px 67px 10px;
+             color: #fff;
+             padding-bottom: 2em;
+           }
+           .campus_tutr_box h5 {
+             color: #fff;
+           }
+           .campus_tutr .btn {
+             margin-top: 7em;
+             font-weight: bold;
+           }
+           .d-done {
+             display: none;
+           }
+
+           .custom_row {
+             display: flex;
+             position: relative;
+           }
+           .custom_col2 {
+             position: absolute;
+             right: 0;
+             bottom: -45px;
+           }
+/* ul.nav li:nth-child(3) {
+    display: none;
+    }*/
+
+    p.fw.ct_ml-62 {
+   padding-left: 68px!important;
+ }
+ p.fw.pl-73px {
+   padding-left: 73px!important;
+ }
+
+ .coursebox .content .summary{
+   height: auto;
+
+ }
+ .coursebox .content {
+   clear: both;
+   padding: 20px 0px;
+ }
+
+
+ .coursebox .content .courseimage {
+   background-position: center center;
+   background-size: cover;
+ }
+ .coursebox .content .courseimage {
+   width: 57%!important;
+   margin: 0 auto!important;
+   background-size: cover;
+   background-repeat: no-repeat;
+ }
+ @media only screen and (max-width: 768px) {
+   .bg-color{
+    height: auto;
+    max-height:initial;
+    margin-bottom: 3em;
+  }
+  .custom_box {
+
+    margin-top: 43px;
+
+  }
+  .bg_custom_color {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+  }
+  .bg_custom_color ul {
+   margin-left: -18px;
+ }
+ .custom_bg_color{
+   padding-top: 0;
+   padding-bottom: 2em;
+ }
+ .d-done {
+   border-bottom:10px solid #fff;
+   position: relative;
+   z-index: 9999999;
+   height: 17px;
+   width: 100%;
+   display: block;
+ }
+ #camera_wrap {
+   display: none!important;
+ }
+ .bg_custom_color ul li {
+   display: inline-flex;
+   line-height: 30px;
+   }.custom_col2 {
+    bottom: -26px;
+  }
+}
+
+
+/*20-1-21 anil css*/
+.custom_box img {
+ width: 100px;
+}
+.btns a {
+ color: #008dd5;
+ font-size: 20px;
+ font-weight: 700;
+ text-decoration: underline;
+}
+.campustutr-list ul li {
+ line-height: 2.5;
+ font-weight: 600;
+}
+.campustutr-list ul {
+ padding-left: 2em;
+}
+/*20-1-21 anil css*/
+
+
+/*23-1-21 anil css*/
+.heading h1{
+ color: #000;
+ position: relative;
+}
+.heading h1:after {
+ content: "";
+ position: absolute;
+ width: 34%;
+ left: 33%;
+ top: 100%;
+ height: 3px;
+ background-color: #008ad3;
+}
+.nav.nav-pills {
+ justify-content: center;
+}
+.nav.nav-pills li.nav-item {
+ border: 1px solid #ddd;
+ margin: 1em;
+ text-align: -webkit-center;
+ width: 200px;
+}
+.nav.nav-pills li.nav-item .nav-link {
+ border-radius: 100%;
+ width: 100px;
+ height: 100px;
+ line-height: 4;
+ font-size: 20px;
+ font-weight: 800;
+ text-align: center;
+}
+.nav-pills .nav-link, .nav-pills .show>.nav-link{
+ background: rgb(1,107,195);
+ background: linear-gradient(180deg, rgba(1,107,195,1) 32%, rgba(62,156,207,1) 101%);
+
+}
+li.nav-item span {
+ font-weight: 800;
+ color:#008dd5;
+ font-size: 20px;
+
+}
+img.fluid-img {
+ max-width: 100%;
+ height: auto;
+}
+.highlights-bg{
+ background-image: url("http://www.campustutr.com/theme/lambda/layout/image/highlights-bg.png");
+}
+#page{
+ padding: 0;
+}
+#wrapper {
+ width: 100%;
+}
+.multi-img ul.d-flex {
+ justify-content: space-around;
+ align-items: center;
+ padding: 0;
+ margin: 0;
+ list-style: none;
+}
+.multi-img ul.d-flex li a{
+ line-height: 12;
+}
+ul.d-flex span {
+ display: block;
+ color: #fff;
+ padding-top: 0;
+}
+
+
+
+/*23-1-21 anil css*/
+
+div#frontpage-available-course-list h2 {
+    text-align: center;
+}
+
+
+ .carousel, .carousel-inner, .carousel-item{
+      height: 100%
+    }
+    .heading h2 {
+      font-size: 2.46rem;
+      line-height: 3.08rem;
+      border-bottom: 4px solid #10b2e2;
+      width: 300px;
+      margin: 30px auto
+    }
+
+
+    .carousel-item{
+      z-index: 2;
+      padding: 10px 25px;
+    }
+    .title{
+      color: #fff;
+      text-align: center;
+    }
+    .bgTitle{
+      position: absolute;
+      z-index: 1;
+    }
+
+    .title p{
+      text-shadow: 0px 3px 3px rgba(0,0,0,0.2);
+      color: #000;
+    }
+.left-content {
+    box-shadow: 0 14px 28px rgb(0 0 0 / 25%), 0 10px 10px rgb(0 0 0 / 22%);
+    padding: 2em;
+    border-radius: 25px;
+    margin-bottom: 2em;
+}
+  /*-- vertical bootstrap slider --*/
+  .carousel .carousel-item-next.carousel-item-left,
+  .carousel .carousel-item-prev.carousel-item-right {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  .carousel .carousel-item-next,
+  .carousel .active.carousel-item-right {
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100% 0);
+  }
+
+  .carousel .carousel-item-prev,
+  .carousel .active.carousel-item-left {
+    -webkit-transform: translate3d(0,-100%, 0);
+    transform: translate3d(0,-100%, 0);
+  }
+
+  /*-- vertical carousel indicators --*/
+  .carousel-indicators{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 40px;
+    right: -30px;
+    left: auto;
+    width :auto;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+  .carousel-indicators li{
+    display: block;
+    margin-bottom: 0px;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background: #BDBDBD;
+    transition: all ease 0.6s;
+  }
+  .carousel-indicators li.active{
+    background: #000;
+    width: 20px;
+    border-radius: 25px;
+  }
+  .carousel-inner {
+    line-height: 2;
+}
+
+  /* Media Querys */
+  /* Small devices (landscape phones, 576px and up)*/ 
+  @media (min-width: 576px) {
+    .bgTitle{
+      height: 30%;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      width: 100%;
+      top: 0;
+    }
+    .content{
+      padding: 15px;
+    }
+  }
+
+  /* Medium devices (tablets, 768px and up)*/
+  @media (min-width: 768px) {
+
+  }
+
+  /* Large devices (desktops, 992px and up)*/
+  @media (min-width: 992px) {
+    .bgTitle{
+      height: 100%;
+      width: 50%;
+      border-bottom-left-radius: 15px;
+      border-top-right-radius: 0px;
+    }
+  }
+
+  /* Extra large devices (large desktops, 1200px and up)*/
+  @media (min-width: 1200px) {
+
+  }
+  /*-- vertical carousel indicators --*/
+
+
+  /*footer css*/
+  .bg-mapimg{
+    /*background: blue;*/
+    position: relative;
+  }
+  .footer-social-icon ul {
+    display: flex;
+    padding: 0;
+    list-style: none;
+}
+.footer-social-icon ul li {
+    padding: 5px 15px 5px 0;
+}
+.footer-social-icon ul li a {
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 10px;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    display: inline-block;
+    line-height: 1;
+}
+.quick-link ul{
+  padding: 0;
+  list-style: none;
+  line-height: 2;
+}
+.quick-link ul li a{
+  text-decoration: none;
+}
+.sub-footer {
+    background-color: cornflowerblue;
+    color: #fff;
+    line-height: 3;
+}
+.form-group input {
+    background-color: transparent;
+    border: navajowhite;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    box-shadow: unset;
+}
+.form-group input:focus {
+    background-color:transparent; 
+    border-color: unset;
+    outline: 0;
+    box-shadow:unset;
+    border-radius: 0;
+}
+.form-group input::placeholder {
+    color: #000;
+    font-weight: 500;
+}
+.contact-form {
+    padding: 2em;
+    background-color: aliceblue;
+    position: absolute;
+    width: 440px;
+    top: -32px;
+    right: -90px;
+  }
+.contact-form h1 {
+    font-weight: 700;
+    border-bottom: 4px solid #10b2e2;
+    width: 240px;
+    margin: 0 auto;
+}
+.text-right{
+  text-align: right;
+}
+.form-group.mb-4.text-right button {
+    font-weight: 600;
+    color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+}
+  /*footer css*/
+ul.menu_box li.b a:after {
+    content: "\f054";
+    position: absolute;
+    right: 8px;
+    font-family: 'Font Awesome 5 Pro';
+    font-size: 12px;
+    margin-top: 5px;
+}
+li.nav-item.explore.dropdown>a:after {
+    content: "\f078";
+    font-family: 'Font Awesome 5 Pro';
+    font-size: 12px;
+    margin-left: 3px;
+}
+.banner-text {
+font: normal normal bold 62px/85px Poppins;
+    color: #fff;
+}
+/*available course css */
+.frontpage-course-list-enrolled, .courses.frontpage-course-list-all, .course_category_tree .category-browse {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    position: relative;
+    margin-bottom: 20px;
+}
+.coursebox {
+    width: 325px;
+    position: relative;
+    border: 1px solid #fff;
+    box-shadow: 0 0 10px rgb(0 0 0 / 15%);
+    transition: all .3s ease-out 0s;
+    padding: 0;
+    margin: 0 10px 30px 10px;
+}
+.coursebox .content .courseimage {
+    width: 57%!important;
+    margin: 0 auto!important;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.coursebox .content .courseimage {
+    height: 166px;
+    float: unset;
+}
+.coursebox .content .summary {
+    width: auto;
+    padding: 0 .5em;
+    margin: 0;
+    height: 140px;
+    overflow: hidden;
+}
+.coursebox .content .summary {
+    height: auto;
+}
+a.skip-block.skip {
+    display: none;
+}
+div#frontpage-available-course-list h2 {
+    font-size: 2.46rem;
+    line-height: 3.08rem;
+    margin: 30px 0 40px 0;
+}
+.coursebox .content .course-btn .btn.btn-primary {
+    margin-top: .75em;
+}
+.btn-primary {
+    background-color: #ffae00;
+}
+.coursebox .content {
+    clear: both;
+    padding: 20px 0px;
+}
+.coursebox .course-btn, .coursebox h3.coursename {
+    text-align: center;
+    margin-top: 0;
+}
+.coursebox h3.coursename {
+    line-height: 25px;
+    margin-bottom: 5px;
+}
+.course_category_tree .category.notloaded h3.categoryname a, .course_category_tree .category.with_children h3.categoryname a, .course_category_tree .category>.info>.categoryname a, .coursebox .content h3.coursename a, .coursebox .content h3.coursename a:hover{
+        color: #555;
+    font-size: 1.23rem;
+}
+.coursebox>.info>.coursename {
+    display: none;
+}
+
+.sent_sms {
+    position: fixed;
+    top: 60px;
+    left: 50%;
+    z-index: 9;
+    transform: translate(-50%, 0);
+    background-color: #f9be39;
+    padding: 10px .5em 0 .5em;
+    border-radius: 4px;
+    width: 20%;
+    text-align: left;
+}
+
+.sent_sms p {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.sent_sms p.sndp i {
+    padding-right: 6px;
+}
+/*available course css end*/
+
+
+
+ul.menu_box {
+    list-style: none;
+    padding: 0;
+}
+
+ul.menu_box ul li a {
+    color: #fff;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 225px;
+  /*padding-left: 1em;*/
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 2;
+  left: -40px;
+  padding: 0 5px 0 0;
+  border-radius: 5px 1px 0px 5px;
+
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+li.nav-item.explore.dropdown:hover .dropdown-content {display: block;height: fit-content;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+ul.sbm_box {
+    display: none;
+}
+
+li.nav-item.explore.dropdown.show .dropdown-content {
+    display: block;
+}
+
+li.nav-item.explore.dropdown .dropdown-content {
+    display: none;
+}
+li.b:hover .sbm_box {
+    display: block;
+    position: absolute;
+    left: 100%;
+    top: -1px;
+    margin-top: 0;
+    /*height: calc(100% + 2px);*/
+    height: fit-content;
+    width:300px;
+    -webkit-transform: translateX(-5px);
+    -ms-transform: translateX(-5px);
+    transform: translateX(-5px);
+    border-radius: 0 5px 5px 0;
+    z-index: -1;
+    padding-left: 5px;
+    background-color: #fff;
+    padding: 5px;
+}
+
+
+.navbar .nav>li>a {
+    background: #0178ca00;
+}
+.navbar .nav>li>a:hover {
+    background: #0178ca00;
+}
+.nav > li li:hover > .sub_pmn ul { 
+  left: 100%;
+  top: 0px;
+}
+
+.top_menubx {
+    width: 100%;
+}
+
+.top_menubx ul {
+    justify-content: space-evenly;
+    text-align: left;
+    
+}
+/*for student css*/
+.student-bg-layer{
+     background-image: url(http://www.campustutr.com/theme/lambda/layout/image/student-bg.svg);
+     min-height: 475px;
+}
+.student-curve-img{
+        background-image: url(http://www.campustutr.com/theme/lambda/layout/image/student-curve.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 399px;
+    margin-top: -305px;
+    position: relative;
+}
+ul.navbar-nav {
+    align-items: center;
+}
+
+.top_menubx ul {
+    padding: 0;
+    margin: 0;
+}
+.learning-heading h2 {
+    font: normal normal 600 46px Poppins;
+
+}
+.learning-sub-heading p {
+    color: #B2B2B2;
+}
+.shadow_style {
+    box-shadow: 0px 3px 21px #00000029;
+    padding: 2em;
+}
+
+
+textarea {
+    overflow: hidden;
+    resize: vertical;
+    width: 100%;
+}
+
+.student-highlight-img img {
+    height: 330px;
+}
+
+.counter-text h1 {
+    border-bottom: 3px solid #FEBF00;
+    width: 130px;
+    text-align: center;
+    margin: 0 auto;
+}
+.student-highlight-img{
+  text-align: center;
+}
+.Join_btn a {
+    background: transparent linear-gradient(0deg, #0093D8 0%, #0259BA 100%) 0% 0% no-repeat padding-box;
+    border-radius: 49px;
+    height: 50px;
+    display: inline-block;
+    padding: 0 2em;
+    color: #fff;
+}
+
+.Join_btn a button {
+    font: normal normal bold 29px/40px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+/*for student css*/
+ul.sbm_box h3 {
+    font-size: 24px;
+}
+
+
+/*=====================
+   vedpal-singh
+=======================*/
+img.Life_Circle_img	{
+	height: 840px;
+width: 100%;
+
+}
+
+
+p.tures100{
+	    width: 560px;
+    text-align: right;
+    height: 140px;
+    border: 2px solid #358ad3;
+    margin-left: -109px;
+    border-radius: 88px;
+    font-size: 60px;
+    border: 1px solid #358ad3;
+    color: #358ad3;
+    font-weight: 900px;
+    background-color: white;
+    text-align: right;
+    padding-block: 2px;
+    padding-right: 40px;
+    font-weight: 900;
+    font-size: 63px;
+
+}
+.testimonial.pb-5 {
+    padding-top: 41px;
+}
+
+span.a_teaching{
+	font-size: 21px;
+color: #379ef7;
+margin-left: -109px;
+font-weight: 900px;
+background-color: white;
+text-align: right;
+padding-inline: 50px;
+}
+
+.a12{
+	    width: 100%;
+    height: 280px;
+    border-radius: 10px;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 300px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+    font-size: 22px;
+
+}
+
+.acces_s{
+	width: 300px;position: absolute;padding-top: 110px; font-weight: 900; margin-left: -96px;color: white;
+}
+.a3 p{
+	width: 300px;position: absolute;padding-top: 110px; font-weight: 900; margin-left: -96px;"
+}
+
+.bg_hight{
+	display: block; margin-left: auto; margin-right:auto;height:700px;
+}
+p.en_verment{
+	font-size: 25px;
+    font-weight: 900;
+}
+/*----------other-page-css--student------*/
+
+.form-group textarea::placeholder {
+  font-weight: 500;
+  padding-left: 5px;
+  color: #000;
+}
+  .form-group textarea {
+    background-color: transparent;
+    border: navajowhite;
+    border:1px solid #ccc;
+    outline: none;
+    box-shadow: unset;
+    width: 100%;
+}
+  input.btn.btn-info {
+    font-weight: 600;
+    color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #138496;
+    border-color: #138496;
+}
+   .carousel, .carousel-inner, .carousel-item{
+      height: 100%
+    }
+   
+    .carousel-item{
+      z-index: 2;
+      /*padding: 50px 25px;*/
+    }
+    .title{
+      color: #fff;
+      text-align: center;
+    }
+    .bgTitle{
+      position: absolute;
+      z-index: 1;
+    }
+
+    .title p{
+      text-shadow: 0px 3px 3px rgba(0,0,0,0.2);
+      color: #000;
+    }
+.left-content {
+    box-shadow: 0 14px 28px rgb(0 0 0 / 25%), 0 10px 10px rgb(0 0 0 / 22%);
+    padding: 2em;
+    border-radius: 25px;
+}
+  /*-- vertical bootstrap slider --*/
+  .carousel .carousel-item-next.carousel-item-left,
+  .carousel .carousel-item-prev.carousel-item-right {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  .carousel .carousel-item-next,
+  .carousel .active.carousel-item-right {
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100% 0);
+  }
+
+  .carousel .carousel-item-prev,
+  .carousel .active.carousel-item-left {
+    -webkit-transform: translate3d(0,-100%, 0);
+    transform: translate3d(0,-100%, 0);
+  }
+
+  /*-- vertical carousel indicators --*/
+  .carousel-indicators{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 40px;
+    right: -15px!important;
+    left: auto;
+    width :auto;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+  .carousel-indicators li{
+    display: block;
+    margin-bottom: 0px;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    border:3px solid  #BDBDBD;
+    transition: all ease 0.6s;
+  }
+  .carousel-indicators li.active{
+    background: #2066b9;
+    width: 20px;
+    border-radius: 25px;
+  }
+/*----------other-page-css-student-------*/
+/*----------other-page-css-toors-------*/
+
+ .headeing {
+
+    color: #ffae00;
+
+} 
+
+section#region-main {
+
+    width: 100%!important;
+
+    display: inline-block;
+
+}
+
+section#region-main .row {
+
+    display: inline-flex;
+
+    justify-content: space-between;
+
+}
+
+aside#block-region-side-pre {
+
+    display: none;
+
+}
+
+.campus_tutur-image.first img {
+
+    margin-left: 4em;
+
+}
+
+ .sec1{
+   display: flex;
+  padding-block: 30px;
+  justify-content: space-around;
+ }
+.a1{
+  width:320px;
+  background-color:blue;
+border-radius: 10px;
+  text-align:center;
+  position:relative;
+  padding-top: 220px;
+  padding-bottom: 50px;
+  color: white;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+font-size: 18px;
+}
+
+.a2{
+  width: 100px;
+  height:100px;
+  background-color:white;
+  border-radius: 50px;
+  position:absolute;
+  top:65px;
+  left:100px;
+  border: 1px solid 	#00bfff;
+}
+.a3{
+  width: 120px;
+  height:120px;
+  position:absolute;
+  background-repeat: no-repeat;
+  padding: 30px;
+ margin-left: auto;
+ margin-right: auto;
+display: flex;
+}
+
+ .circular--portrait{
+  position: relative;
+  width: 75%;
+  height: 75%;
+  overflow: hidden;
+  border-radius: 50%;
+  background-image: url(Overlay1.svg);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat;
+  padding: 15px;
+  background-color: pink;
+      }
+.card12{
+  width: 350px;
+  height: 350px;
+  border:1px solid #8A2BE2;
+  border-style: outset;
+}
+
+.img123{
+  background-image: url("image/World_Map.svg");
+  background-position: right bottom, left top;
+  background-repeat: no-repeat;
+  background-size: 1349px 900px;
+  margin-bottom: -60px;
+  padding-top: 24px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img1234{
+  background-image: linear-gradient(#8A2BE2, #1E90FF);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat;
+  border-bottom-right-radius: 100% 10%;
+  border-bottom-left-radius: 100% 10%;
+  border-top-right-radius: 100% 10%;
+  border-top-left-radius: 100% 10%;
+  height:850px;
+
+}
+
+
+
+/*----------other-page-css-toors-------*/
+
+/*=====================
+   vedpal-singh
+=======================*/
+
+
+  @media (min-width: 992px) {
+    .bgTitle{
+      height: 100%;
+      width: 50%;
+      border-bottom-left-radius: 15px;
+      border-top-right-radius: 0px;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+/*    p.lets-text{
+        font-size: 34px!important;
+    }
+    .banner-text{
+        margin-top: 0!important;
+    }
+    .row.align-items-center.pt-5 {
+    padding-top: 0!important; 
+  }
+
+
+  .contact-form {
+    width: 345px;
+    right: 0px;
+    position: unset;
+}
+
+ul.menu_box{
+    margin-left: 0!important;
+    z-index: 9!important;
+
+  }
+
+.nav > li li:hover > .sub_pmn ul {
+    left: -1px!important;
+    top: 255px!important;
+}
+.sent_sms{
+  width: 50%;
+}
+.sent_sms p {
+  font-size: 13px;
+}
+
+
+
+}
+*/
+.student_bg-layer{
+    min-height: 499px!important;
+    background-position: 84%!important;
+  }
+
+  section#region-main .row {
+
+    display: inline-block;
+
+    justify-content: space-between;
+
+}
+
+.campus_tutur-image.first img {
+
+    margin-left: 0em;
+
+}
+button.navbar-toggler {
+    position: absolute;
+    z-index: 9999;
+    right: 26px;
+    top: 26px;
+}
+.banner-text {
+    font:normal normal bold 36px/55px Poppins;}
+
+.contact-form {
+    padding: 1em;
+    background-color: aliceblue;
+    position: absolute;
+    width: 388px;
+    top: 7px;
+    right: 0px;
+}
+ul.navbar-nav {
+    align-items: end;
+}
+.dropdown-content{
+  left: -14px;
+}
+.dropdown-content{
+  min-width: 371px;
+}
+ul.sbm_box {
+    min-height: 683px;
+}
+li.b:hover .sbm_box{
+      left: 1.5%;
+    top: 397px;
+    width: 370px;
+}
+
+
+
+}
+
+
+/*============vedpal================*/
+
+  @media only screen and (max-width: 568px) {
+.container{
+	width: 100%
+}
+img.Life_Circle_img {
+    height: auto!important;
+    width: 100%;
+}
+.img1234{
+	height: auto!important;
+	padding: 20px 0px;
+}
+.sec1 {
+    display: inherit!important;
+
+}
+
+
+.a12{
+	margin-top: 25px;
+}
+.a3 p{
+	/*width: 246px !important;*/
+    /* width: 100% !important; */
+    left: 0;
+    text-align: center;
+    display: ;
+/*	width: 300px!important;
+position: absolute!important;
+padding-top: 110px!important;
+font-weight: 900!important;
+margin-left: -94%!important*/
+}
+p.tures100{
+      width: 100%;
+    text-align: left;
+    height: 74px;
+    border: 2px solid #358ad3;
+    margin-left: -21%;
+    font-size: 18px;
+    padding-left: 18%;
+    padding-top: 13px;
+
+}
+.a2{
+	left: 34%!important;
+}
+
+.a12 img{
+	    width: 298px!important;;
+}
+
+.left-content{
+	padding: 10px; 	
+}
+
+.contact-form{
+	    width: 97%;
+	        position: inherit!important;
+}
+
+
+.bg_hight{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    padding-bottom: 25%;
+    padding-top: 25px;
+}
+
+span.a_teaching {
+    font-size: 12px;
+    color: #379ef7;
+    margin-left: 0;
+    font-weight: 900px;
+    background-color: white;
+    text-align: right;
+    padding-inline: 0px;
+}
+.testimonial.pb-5 {
+    padding-top: 0;
+}
+
+.logo {
+    width: 59%;
+}
+.logo img {
+    margin-left: -2em;
+    width: 100%;
+}
+.carousel-indicators{
+	right: -18px;
+
+}
+.navbar-light .navbar-toggler {
+    color: rgb(255 255 255);
+    border-color: rgb(255 255 255 / 78%);
+    margin-top: -15px;
+}
+.en_verment{
+font-size: 21px!important;
+    font-weight: 900;
+    margin-bottom: -15px;
+}
+
+.learning-heading h2 {
+    font-size: 18px;
+}
+.learning-heading {
+    padding-top: 22px;
+}
+.Join_btn {
+    margin-top: 9%;
+}
+.a3 {
+    width: 100px!important;
+}
+
+ .bgTitle{
+      height: 30%;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      width: 100%;
+      top: 0;
+    }
+    .content{
+      padding: 15px;
+    }
+
+.student_bg-layer {
+    min-height: 499px!important;
+    background-position: 84%!important;
+}
+
+.img-fluid.left {
+    width: 100%!important;
+    height: auto!important;
+}
+
+.new_form input, .new_form select {
+    padding: 0em!important
+    min-height: 40px;;
+}
+.cancel-new_account ul .btn.cancel-btn {
+    padding: .4em 1.2em!important;
+    color: #0a1820;
+  }
+
+
+
+
+
+
+
+  }
+
+/*============vedpal================*/
